@@ -11,4 +11,6 @@ At the end of each model, the evaluation of model performance is done using R-sq
 4) Decision Tree Regression
 5) Random Forest Regression
 
+NOTE: To view the Jupyter Notebook, use https://nbviewer.org/ by pasting the GitHub repo.
+
 **References:** https://scikit-learn.org/stable/
